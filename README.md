@@ -1,3 +1,3 @@
 ### Hi 👋 I am Hardix
 **Expertise in .NET**<br><br>
-**Do not forget to view my portfoli**
+**<a href="hardix02.github.io">Do not forget to view my portfolio</a>**
